@@ -1,4 +1,3 @@
-# Sihl AI
-### AutoML for Computer Vision
-[sihl.ai](sihl.ai)
+# [Sihl AI](sihl.ai)
+## AutoML for Computer Vision
 
